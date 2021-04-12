@@ -1,0 +1,1 @@
+const {postSchema} = require("./post");
